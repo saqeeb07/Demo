@@ -1,4 +1,4 @@
 # Demo
 This is my first repo
 <br>
-Author - Saqeeb Mulla
+Author - Saqeeb (My Repository)
